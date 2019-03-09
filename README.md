@@ -1,1 +1,1 @@
-# node.js-register-login-api
+# Node.js Registration & Login API with JWT Authentication
